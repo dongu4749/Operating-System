@@ -13,8 +13,13 @@
 #### (HW3)
 
  1.OPT Page Change Algorithm
+ 
  2.LRU Page Change Algorithm
+ 
  3,SecondChance Page Change Algorithm
+ 
  4.FCFS Disk Scheduling
+ 
  5.SSTF Disk Scheduling 
+ 
  6.C-LOOK Disk Scheduling
